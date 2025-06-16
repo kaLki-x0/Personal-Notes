@@ -1,1 +1,2 @@
-hey
+# HTB bug bounty notes
+
