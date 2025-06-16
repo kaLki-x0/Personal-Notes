@@ -39,7 +39,4 @@
   * [13. Advanced SQL Injections](web-notes/htb-senior-web-notes/13.-advanced-sql-injections.md)
   * [14. Advanced Deserialization Attacks](web-notes/htb-senior-web-notes/14.-advanced-deserialization-attacks.md)
   * [15. Parameter Logic Bugs (.html and .pdf duplicate)](web-notes/htb-senior-web-notes/15.-parameter-logic-bugs-.html-and-.pdf-duplicate.md)
-
-***
-
-* [Burpsuite notes](burpsuite-notes.md)
+* [Burpsuite notes](web-notes/burpsuite-notes.md)
